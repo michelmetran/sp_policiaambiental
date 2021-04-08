@@ -1,1 +1,0 @@
-http://datageo.ambiente.sp.gov.br/geoserver/datageo/PelotaoPoliciaAmbiental2015/wfs?version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&typeName=PelotaoPoliciaAmbiental2015
